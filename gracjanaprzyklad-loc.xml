@@ -1,0 +1,733 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ali</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 23" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 27" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 199" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 97" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 200" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 70" line=" 191" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 196" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 195" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 226" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 171" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 173" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 4" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 4" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 18" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 2" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 228" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 228" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 232" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 228" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 226" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 229" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\constants.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 86" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 86" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 86" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 228" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 226" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 226" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 226" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\simulation.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 226" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\gracjanaprzyklad.gpr</vfs_project>
+      <vfs_file>C:\Users\artem\Downloads\AdaProject-main\AdaProject-main\tasks.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
